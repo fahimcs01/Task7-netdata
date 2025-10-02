@@ -1,0 +1,3 @@
+Install the netdata for monitoring the system logs and performance 
+docker run -d --name=netdata -p 19999:19999 netdata/netdata 
+indside the docker container netdata is installed 
